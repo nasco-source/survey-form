@@ -1,0 +1,38 @@
+* {
+box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #d3d3d3;
+    color: black;
+    line-height: 1.6em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 27px;
+    font-weight: 300;
+}
+
+.container {
+    margin: auto;
+    width: 80%;
+    overflow: hidden;
+}
+
+header {
+    background: #006400;
+    color: #fff;
+    margin-bottom: 30px;
+}
+
+button {
+    background: #006400;
+    color: #fff; 
+    height: 40px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 60px;
+    font-size: 16px;
+}
